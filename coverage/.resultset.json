@@ -262,6 +262,15 @@
         1,
         1,
         null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/jaychopra/Dropbox/Documents/CMU Junior Year 2013-2014/Spring 2014/373/Rails Apps/ChoreTracker_starter_S13/app/controllers/users_controller.rb": [
@@ -333,6 +342,6 @@
         null
       ]
     },
-    "timestamp": 1391049485
+    "timestamp": 1391050199
   }
 }
